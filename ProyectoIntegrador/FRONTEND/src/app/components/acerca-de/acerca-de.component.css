@@ -24,7 +24,7 @@ div {
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
         left: 33%;
-        top: 750px;
+        top: 950px;
     }
 }
 
@@ -32,7 +32,7 @@ div {
 
 #nombre{
     font-weight: bold;
-    margin-top: 30%;
+    margin-top: 10%;
     font-size: 0.8cm;
 }
 
